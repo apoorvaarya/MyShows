@@ -27,9 +27,8 @@ public class DummyContent {
 
     static {
         // Add some sample items.
-        for (int i = 1; i <= COUNT; i++) {
-            addItem(createDummyItem(i));
-        }
+        addItem(new DummyItem("1", "Brooklyn Nine-Nine", ""));
+        addItem(new DummyItem("2", "Grey's Anatomy", ""));
     }
 
     private static void addItem(DummyItem item) {
