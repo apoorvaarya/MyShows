@@ -29,6 +29,8 @@ public class DummyContent {
         // Add some sample items.
         addItem(new DummyItem("1", "Brooklyn Nine-Nine", ""));
         addItem(new DummyItem("2", "Grey's Anatomy", ""));
+        addItem(new DummyItem("3", "The Flash", ""));
+
     }
 
     private static void addItem(DummyItem item) {
