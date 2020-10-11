@@ -11,7 +11,8 @@
         android:layout_height="wrap_content"
         android:background="@drawable/splash_shows"
         android:paddingLeft="20dp"
-        android:paddingTop="300dp"
+        android:paddingTop="310dp"
+        android:paddingRight="0dp"
         android:text="@string/txtSplash"
         android:textColor="#FFFFFF"
         android:textSize="48sp"
@@ -19,6 +20,8 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:paddingStart="20dp"
+        android:paddingEnd="0dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
