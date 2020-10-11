@@ -11,7 +11,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class SplashActivity extends AppCompatActivity {
-    MediaPlayer mpUkulele;
+    MediaPlayer mpIntro;
     int playing;
     @Override
 
@@ -19,18 +19,18 @@ public class SplashActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
-        mpUkulele = new MediaPlayer();
-        mpUkulele = MediaPlayer.create(this, R.raw.ukulele);
+        mpIntro = new MediaPlayer();
+        mpIntro = MediaPlayer.create(this, R.raw.intro);
 
         CountDownTimer cntr_aCounter = new CountDownTimer(3000, 1000) {
             public void onTick(long millisUntilFinished) {
 
-                mpUkulele.start();
+                mpIntro.start();
             }
 
             public void onFinish() {
                 //code fire after finish
-                mpUkulele.stop();
+                mpIntro.stop();
             }
         };cntr_aCounter.start();
 

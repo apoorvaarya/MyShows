@@ -71,6 +71,9 @@ public class ItemsDetailFragment extends Fragment {
         if(mItem.id.equals("3")) {
             rootView = inflater.inflate(R.layout.show3, container, false);
         }
+        if(mItem.id.equals("4")) {
+            rootView = inflater.inflate(R.layout.show4, container, false);
+        }
 
         return rootView;
     }

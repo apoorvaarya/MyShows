@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/imgShow4"
+        android:layout_width="match_parent"
+        android:layout_height="209dp"
+        app:srcCompat="@drawable/tvimage4" />
+
+    <TextView
+        android:id="@+id/txtTitle4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/txtTitle4"
+        android:textColor="#3F51B5"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/txtGenre4"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:gravity="center|center_vertical"
+        android:text="@string/txtGenre4"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/txtRate4"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:gravity="center|center_vertical"
+        android:text="@string/txtRate4"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/txtDesc4"
+        android:layout_width="match_parent"
+        android:layout_height="366dp"
+        android:gravity="center_vertical"
+        android:padding="20dp"
+        android:text="@string/txtDesc4"
+        android:textSize="18sp" />
+</LinearLayout>

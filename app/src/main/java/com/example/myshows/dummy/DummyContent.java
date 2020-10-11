@@ -30,6 +30,7 @@ public class DummyContent {
         addItem(new DummyItem("1", "Brooklyn Nine-Nine", ""));
         addItem(new DummyItem("2", "Grey's Anatomy", ""));
         addItem(new DummyItem("3", "The Flash", ""));
+        addItem(new DummyItem("4", "Supernatural", ""));
 
     }
 
