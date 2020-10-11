@@ -3,4 +3,24 @@
     <string name="txtSplash">TV Show Reviews</string>
     <string name="title_items_list">Items</string>
     <string name="title_items_detail">Items Detail</string>
+    <string name="txtTitle1">Brooklyn Nine-Nine</string>
+    <string name="txtTitle2">Grey\'s Anatomy</string>
+    <string name="txtTitle3">The Flash</string>
+    <string name="txtTitle4">Supernatural</string>
+    <string name="imgShow1">Image of show 1</string>
+    <string name="imgShow2">image of show 2</string>
+    <string name="imgShow3">image of show 3</string>
+    <string name="imgShow4">image of show 4</string>
+    <string name="txtDesc1">Brooklyn Nine-Nine is an American police procedural comedy television series created by Dan Goor and Michael Schur. The series revolves around Jake Peralta (Andy Samberg), an immature but talented NYPD detective in Brooklyn\'s fictional 99th Precinct, who often comes into conflict with his new commanding officer, the serious and stern Captain Raymond Holt (Andre Braugher). The rest of the cast features Stephanie Beatriz as Rosa Diaz, Terry Crews as Terry Jeffords, Melissa Fumero as Amy Santiago, Joe Lo Truglio as Charles Boyle, Chelsea Peretti as Gina Linetti, Dirk Blocker as Michael Hitchcock, and Joel McKinnon Miller as Norm Scully.</string>
+    <string name="txtDesc2">Grey\'s Anatomy is an American medical drama television series that premiered on March 27, 2005, on the American Broadcasting Company (ABC) as a mid-season replacement. The fictional series focuses on the lives of surgical interns, residents, and attendings as they develop into seasoned doctors while balancing personal and professional relationships.</string>
+    <string name="txtDesc3">The Flash is an American superhero television series developed by Greg Berlanti, Andrew Kreisberg, and Geoff Johns, airing on The CW. It is based on the Barry Allen incarnation of DC Comics character the Flash, a costumed superhero crime-fighter with the power to move at superhuman speeds.</string>
+    <string name="txtDesc4">Supernatural is an American television series created by Eric Kripke. It was first broadcast on September 13, 2005, on The WB, and subsequently became part of successor The CW\'s lineup. Starring Jared Padalecki as Sam Winchester and Jensen Ackles as Dean Winchester, the series follows the two brothers as they hunt demons, ghosts, monsters, and other supernatural beings.</string>
+    <string name="txtGenre1">Comedy</string>
+    <string name="txtGenre2">Drama</string>
+    <string name="txtGenre3">Sci-Fi</string>
+    <string name="txtGenre4">Horror</string>
+    <string name="txtRate1">10/10</string>
+    <string name="txtRate2">7.5/10</string>
+    <string name="txtRate3">8.5/10</string>
+    <string name="txtRate4">9/10</string>
 </resources>
